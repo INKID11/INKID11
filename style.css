@@ -1,0 +1,43 @@
+body {
+  background-image:url(Demonica-Logo-3.png);
+  background-size:cover;
+  background-repeat: no-repeat;
+  background-color: darkred;
+  width:65%;
+  margin: auto;
+}
+p {
+  color: black;
+}
+h1 {
+  font-weight: bold;
+}
+.DemonicaLogo_Design{
+  color: black;
+  text-shadow: crimson 2px 2px;
+  font-family: cursive;
+  background-color: gray;
+  border: groove red;
+}
+.Button_Design{
+  color:black;
+  text-shadow: crimson 1px 1px;
+  font-family: cursive;
+  background-color: gray;
+  border: groove red;
+  border-radius: 40px;
+  font-size:15px;
+  font-style: italic;
+}
+.text{
+  color: red;
+  text-align: center;
+  font-weight: bolder;
+  font-family: arial;
+  background-color: gainsboro;
+}
+.ButtonBar{
+  background-color: black;
+  border: groove red;
+  border-radius: 30px;
+}
